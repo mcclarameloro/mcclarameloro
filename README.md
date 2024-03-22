@@ -13,12 +13,4 @@
 
 
 
-  import Desenvolvedor from "SeuNick";
-
-class SobreMim extends Desenvolvedor {
-  nome = Clara 
-  area = DS
-  trabalho = Cttu
-  local = "Santo amaro";
-}
 
