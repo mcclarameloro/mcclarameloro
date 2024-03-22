@@ -5,7 +5,7 @@
 ###### My name is Clara, I'm in high school
 - 🌱 I’m currently learning about codes and DS
 - 🤔 I’m looking for help with my study
-  
-
+- You can call me on linkdin = claramelorod
+-I am currently working as an intern on cttu
   
 
