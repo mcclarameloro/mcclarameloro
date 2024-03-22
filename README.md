@@ -7,5 +7,18 @@
 - 🤔 I’m looking for help with my study
 - You can call me on linkdin = claramelorod
 - I am currently working as an intern on cttu
-  
+
+
+
+
+
+
+  import Desenvolvedor from "SeuNick";
+
+class SobreMim extends Desenvolvedor {
+  nome = Clara 
+  area = DS
+  trabalho = Cttu
+  local = "Santo amaro";
+}
 
